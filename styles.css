@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.wrapper{
+.wrapper {
     display: flex;
     flex-direction: column;
 }
@@ -23,7 +23,7 @@
     padding-right: 50px;
 }
 
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-between;
     margin: 20px 20px 40px 20px;
@@ -35,13 +35,13 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #fff;
-  }
-  
-  li {
+}
+
+li {
     float: left;
-  }
-  
-    li a {
+}
+
+li a {
     display: block;
     color: black;
     text-align: center;
@@ -50,16 +50,16 @@ ul {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
     font-weight: 200;
-  }
+}
 
-  li a:hover {
-      background-color: #90d8d149;
-      border-radius: 5px;
-  }
+li a:hover {
+    background-color: #90d8d149;
+    border-radius: 5px;
+}
 
 .logo {
     width: 50px;
-  }
+}
 
 .main-title {
     display: flex;
@@ -67,18 +67,16 @@ ul {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 60px;
     font-weight: 200;
-  }
-
-  
+}
 
 .middle-block {
-    background-color:#90d8d149;
+    background-color: #90d8d149;
     padding: 100px;
     margin: 0;
-  }
-   
+}
+
 p {
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 18px;
     color: grey;
 }
@@ -90,10 +88,10 @@ h2 {
 }
 
 .bottom-block {
-        display: flex;
-        padding: 80px 100px 100px 100px;
-        align-items: center;
-        flex-direction: column;
+    display: flex;
+    padding: 80px 100px 100px 100px;
+    align-items: center;
+    flex-direction: column;
 }
 
 .icons {
@@ -103,7 +101,7 @@ h2 {
     width: 90vw;
 }
 
-.individual-icon {    
+.individual-icon {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -116,7 +114,7 @@ h2 {
 .fa-heart {
     color: #F2ACC6;
     padding: 20px;
-} 
+}
 
 .fa-eye {
     color: #6380A6;
