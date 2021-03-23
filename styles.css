@@ -75,6 +75,10 @@ li a:hover {
     margin: 0;
 }
 
+.middle-block p {
+    text-align: center;
+}
+
 p {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 18px;
@@ -129,4 +133,13 @@ h2 {
 .fa-pencil-alt {
     color: #F280B6;
     padding: 20px
+}
+
+footer {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 14px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
 }
